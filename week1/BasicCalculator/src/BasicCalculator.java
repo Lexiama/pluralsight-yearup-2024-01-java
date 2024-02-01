@@ -22,7 +22,7 @@ public class BasicCalculator {
         int operation = scanner.nextInt();
 
         // Perform the requested operation
-        
+
 
     }
 }
